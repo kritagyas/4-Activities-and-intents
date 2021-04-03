@@ -33,7 +33,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button_one"
         android:onClick="showText"/>
-
+<!--Button-->
     <Button
         android:id="@+id/button_three"
         android:layout_width="0dp"
